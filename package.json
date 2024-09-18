@@ -1,10 +1,13 @@
 {
-  "name": "m-queue",
+  "name": "mq-flow",
   "version": "0.0.1",
-  "description": "",
+  "description": "A lightweight, simple queue system designed for small tasks that need to be executed in a queued manner",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.js",
+  "repository": {
+    "url": "https://github.com/DharamSavsani/mq-flow.git"
+  },
   "scripts": {
     "build": "tsup",
     "start": "node dist/index.js",

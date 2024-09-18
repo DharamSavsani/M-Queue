@@ -27,13 +27,13 @@ This queue system is best suited for:
 Install the package using npm:
 
 ```javascript
-npm install m-queue
+npm install mq-flow
 ```
 
 To use this queue system, first import and initialize it
 
 ```javascript
-import { Queue } from 'm-queue';
+import { Queue } from 'mq-flow';
 
 const queue = new Queue();
 ```
