@@ -1,6 +1,6 @@
 {
   "name": "mq-flow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight, simple queue system designed for small tasks that need to be executed in a queued manner",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
